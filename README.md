@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Aakarsh Narang.<br>⚙️ I build smart systems with clean code — from full-stack web apps to AI-powered tools.<br>💡 Areas I explore: React, NLP, Python, Machine Learning & Cloud.<br>🛠️ Currently working on AI chatbots, file management systems, and startup-focused OS tools.<br>📈 Always learning. Always building. Always curious.
-
+👋 Hey there! I'm Aakarsh Narang.<br>⚙️ Passionate about Data Structures & Algorithms, scalable backend systems, and AI-powered applications.<br>💡 Areas I explore: System Design, Machine Learning, NLP, Cloud Computing & High-Performance Software Engineering.<br>🚀 Worked on production-grade AI pipelines, backend optimization, and scalable developer tools through internships and real-world projects.<br>📈 Always learning. Always building. Always curious.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aakarsh_Narang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakarsh.narang2@gmail.com) 
