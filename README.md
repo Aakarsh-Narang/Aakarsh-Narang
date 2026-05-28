@@ -1,11 +1,11 @@
-# Hi, I'm Aakarsh Narang 👋
+# Hi, I'm Aakarsh Narang 👋🏻 
 
 🎓 CS undergrad · Algorithmic Thinker · AI/ML Builder<br>
 💻 I approach every engineering problem **from first principles** — strong foundation in **DSA & algorithms** that drives how I design, optimize, and build software.<br>
 🧠 Deeply passionate about **Competitive Programming, System Design, NLP & Computer Vision** — I enjoy problems where the right algorithm makes all the difference.<br>
 ☁️ Experienced across **AWS, GCP, Docker, and modern backend stacks** — Python, Go, Java and more — building systems that are fast, reliable, and built to last.<br>
 📌 Currently sharpening my **algorithmic thinking & problem-solving** through competitive programming, while building towards **Large-Scale ML Systems & AI-powered applications.**<br>
-🤝 Always open to internships, collaborations, and problems worth solving.
+🤝🏻 Always open to internships, collaborations, and problems worth solving.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakarsh-narang-a7282228b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakarsh.narang2@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=black)](mailto:aakarsh.narang@gmail.com)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=purple)](mailto:img_2023001@iitm.ac.in)
