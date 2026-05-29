@@ -22,10 +22,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aakarsh-Narang&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakarsh-Narang&theme=github_dark" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aakarsh-Narang&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aakarsh-Narang&theme=github_dark&utcOffset=5.5" alt="Productive Time" style="width: 500px;"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aakarsh-Narang&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aakarsh-Narang&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 650px;" />
 </p>
 
 # 📈 Contribution Activity:
@@ -44,7 +44,9 @@
 
 # 🧩 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aakarsh_Narang?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+  <p align="center">
+  <img src="https://leetcard.jacoblin.cool/Aakarsh_Narang?theme=dark&font=Nunito&ext=heatmap&width=495" alt="LeetCode Stats" style="width: 695px;" />
+</p>
 </p>
 
 # 💬 Dev Quote of the Day:
