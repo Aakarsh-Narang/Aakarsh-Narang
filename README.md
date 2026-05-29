@@ -1,5 +1,9 @@
-# Hi, I'm Aakarsh Narang 👋🏻 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Aakarsh+Narang+%F0%9F%91%8B%F0%9F%8F%BB;CS+Undergrad+%40+IIIT+Gwalior+%7C+Class+of+2027;Algorithmic+Thinker+%7C+Competitive+Programmer;AI%2FML+Builder+%7C+Backend+Engineer;DSA+%7C+System+Design+%7C+NLP;Always+learning.+Always+building." alt="Typing SVG" />
+  </a>
+</p>
+ 
 🎓 CS undergrad @IIIT Gwalior '2027 · Algorithmic Thinker · AI/ML Builder<br>
 💻 I approach every engineering problem **from first principles** — strong foundation in **DSA & algorithms** that drives how I design, optimize, and build software.<br>
 🧠 Deeply passionate about **Competitive Programming, System Design, NLP & Computer Vision** — I enjoy problems where the right algorithm makes all the difference.<br>
@@ -44,9 +48,13 @@
 
 # 🧩 LeetCode Stats:
 <p align="center">
-  <p align="center">
   <img src="https://leetcard.jacoblin.cool/Aakarsh_Narang?theme=dark&font=Nunito&ext=heatmap&width=495" alt="LeetCode Stats" style="width: 695px;" />
 </p>
+
+<p align="center">
+    <!-- Try replacing "github-dark" with any of these: -->
+    <!-- dark, light, forest, unicorn, radical, tokyonight, dracula, monokai, cobalt, nord -->
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aakarsh_Narang&animated=true&theme=tokyonight&border=no-border" />
 </p>
 
 # 💬 Dev Quote of the Day:
