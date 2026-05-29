@@ -1,6 +1,6 @@
 # Hi, I'm Aakarsh Narang 👋🏻 
 
-🎓 CS undergrad · Algorithmic Thinker · AI/ML Builder<br>
+🎓 CS undergrad @IIIT Gwalior '2027 · Algorithmic Thinker · AI/ML Builder<br>
 💻 I approach every engineering problem **from first principles** — strong foundation in **DSA & algorithms** that drives how I design, optimize, and build software.<br>
 🧠 Deeply passionate about **Competitive Programming, System Design, NLP & Computer Vision** — I enjoy problems where the right algorithm makes all the difference.<br>
 ☁️ Experienced across **AWS, GCP, Docker, and modern backend stacks** — Python, Go, Java and more — building systems that are fast, reliable, and built to last.<br>
