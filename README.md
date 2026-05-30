@@ -52,6 +52,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Ranking%20&query=$.ranking&color=1F2937&style=for-the-badge&logo=codeforces&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Reputation%20&query=$.reputation&color=1F2937&style=for-the-badge&logo=circuitverse&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Contribution%20Points%20&query=$.contributionPoint&color=1F2937&style=for-the-badge&logo=githubactions&logoColor=9FEF00" />
+</p>
+
+<p align="center">
     <!-- Try replacing "github-dark" with any of these: -->
     <!-- dark, light, forest, unicorn, radical, tokyonight, dracula, monokai, cobalt, nord -->
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aakarsh_Narang&animated=true&theme=tokyonight&border=no-border" />
