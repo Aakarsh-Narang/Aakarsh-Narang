@@ -20,12 +20,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakarsh-Narang&theme=highcontrast" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakarsh-Narang&theme=github_dark" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aakarsh-Narang&theme=highcontrast" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakarsh-Narang&theme=highcontrast" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aakarsh-Narang&theme=highcontrast&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aakarsh-Narang&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakarsh-Narang&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aakarsh-Narang&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
