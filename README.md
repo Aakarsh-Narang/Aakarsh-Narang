@@ -1,14 +1,16 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Aakarsh+Narang+%F0%9F%91%8B%F0%9F%8F%BB;CS+Undergrad+%40+IIIT+Gwalior+%7C+Class+of+2027;Algorithmic+Thinker+%7C+Competitive+Programmer;AI%2FML+Builder+%7C+Backend+Engineer;DSA+%7C+System+Design+%7C+NLP;Always+learning.+Always+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=750&lines=Hi+there%2C+I'm+Aakarsh+Narang+%F0%9F%91%8B%F0%9F%8F%BB;CS+Undergrad+%40+IIIT+Gwalior+%7C+Class+of+2027;Coforge+SDE+Intern+%2725+%7C+AlgoUniversity+SDE+Intern+%2726;Google+Developer+Groups+Tech+Lead;Meta+Hacker+Cup+%7C+Global+Rank+168;Google+Big+Code+%26+Flipkart+Grid+Semi+Finalist;ATF+National+Winner+%2726+%7C+McKinsey+Forward+Learner;4X+Gold+Medalist+%7C+NSO+%26+IMO;Algorithmic+Thinker+%7C+Competitive+Programmer;AI%2FML+Builder+%7C+Backend+Engineer;Always+learning.+Always+building." alt="Typing SVG" />
   </a>
 </p>
- 
-🎓 CS undergrad @IIIT Gwalior '2027 · Algorithmic Thinker · AI/ML Builder<br>
-💻 I approach every engineering problem **from first principles** — strong foundation in **DSA & algorithms** that drives how I design, optimize, and build software.<br>
-🧠 Deeply passionate about **Competitive Programming, System Design, NLP & Computer Vision** — I enjoy problems where the right algorithm makes all the difference.<br>
-☁️ Experienced across **AWS, GCP, Docker, and modern backend stacks** — Python, C++, Go, Java and more — building systems that are fast, reliable, and built to last.<br>
-📌 Currently sharpening my **algorithmic thinking & problem-solving** through competitive programming, while building towards **Large-Scale ML Systems & AI-powered applications.**<br>
+
+🎓 CS undergrad @ IIIT Gwalior '2027 · AI/ML Builder · Backend Engineer<br>
+🚀 <strong>Coforge SDE Intern '25</strong> · <strong>AlgoUniversity SDE Intern '26</strong> · Google Developer Groups Tech Lead · McKinsey Forward Learner<br>
+💻 I approach every engineering problem from first principles — strong foundation in DSA & algorithms that drives how I design, optimize, and build software.<br>
+☁️ Experienced across <strong>AWS, GCP, Docker, and modern backend stacks</strong> — Python, C++, Go, Java and more — building systems that are fast, reliable, and built to last.<br>
+🏆 <strong>Meta Hacker Cup | Global Rank 168</strong> · Google Big Code & Flipkart Grid Semi-Finalist · ATF National Winner '26 · 4X Gold Medalist (NSO & IMO)<br>
+📌 Currently sharpening my <strong>algorithmic thinking & problem-solving</strong> through competitive programming, while building towards <strong>Large-Scale ML Systems & AI-powered applications.</strong><br>
+🧠 Deeply passionate about <strong>Competitive Programming, System Design, NLP & Computer Vision</strong> — I enjoy problems where the right algorithm makes all the difference.<br>
 🤝🏻 Always open to internships, collaborations, and problems worth solving.
 
 ## 🌐 Socials:
