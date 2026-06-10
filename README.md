@@ -6,12 +6,23 @@
 
 <ul style="list-style:none; padding:0;">
   <li>🎓 CS undergrad @ IIIT Gwalior '2027 · AI/ML Builder · Backend Engineer</li>
+
   <li>🚀 <strong>Coforge SDE Intern '25</strong> · <strong>AlgoUniversity (YC S21) SDE Intern '26</strong> · Google Developer Groups Tech Lead · McKinsey Forward Learner</li>
+
   <li>💻 I approach every engineering problem from first principles, with a strong foundation in DSA & algorithms that shapes how I design, optimize, and build software.</li>
-  <li>☁️ Experienced across <strong>AWS, GCP, Docker, and modern backend stacks</strong>, Python, C++, Go, Java and more, building systems that are fast, reliable, and built to last.</li>
+
+  <li>⚡ Experienced in designing <strong>distributed systems, asynchronous processing pipelines, caching layers, and scalable backend architectures</strong>, with hands-on work across Celery, Redis, Kafka, Docker, Kubernetes, AWS, and GCP.</li>
+
+  <li>🏗️ Built fault-tolerant systems featuring <strong>background job orchestration, RBAC, idempotent workflows, adaptive media delivery, and horizontally scalable services</strong> for production workloads.</li>
+
+  <li>☁️ Experienced across <strong>AWS, GCP, Docker, Kubernetes, modern backend stacks, Python, C++, Go, and Java</strong>, building systems that are fast, reliable, and built to last.</li>
+
   <li>🏆 <strong>Meta Hacker Cup | Global Rank 168</strong> · Google Big Code & Flipkart Grid Semi-Finalist · ATF National Winner '26 · 4X Gold Medalist (NSO & IMO)</li>
-  <li>📌 Currently sharpening my <strong>algorithmic thinking & problem-solving</strong> through competitive programming, while building towards <strong>Large-Scale ML Systems & AI-powered applications.</strong></li>
-  <li>🧠 Deeply passionate about <strong>Competitive Programming, System Design, NLP & Computer Vision</strong>, drawn to problems where the right algorithm makes all the difference.</li>
+
+  <li>📌 Currently sharpening my <strong>algorithmic thinking, system design, and problem-solving</strong> through competitive programming while building towards <strong>Large-Scale ML Systems & AI-powered applications.</strong></li>
+
+  <li>🧠 Deeply passionate about <strong>Competitive Programming, Distributed Systems, System Design, NLP & Computer Vision</strong>, drawn to problems where the right architecture and algorithm make all the difference.</li>
+
   <li>🤝🏻 Always open to internships, collaborations, and problems worth solving.</li>
 </ul>
 
