@@ -50,9 +50,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 ---
+# 🚀 Projects
+> Explore my full project portfolio on **[GitHub Repositories](https://github.com/Aakarsh-Narang?tab=repositories)** — from distributed systems and AI pipelines to competitive programming solutions. Feel free to explore, star, or contribute!
+</br>
+
+---
 # 💼 Work Experience
 
-### <img src="./assets/algouniversity.png" width="20" height="20" /> AlgoUniversity (Y Combinator S21) — SDE Intern
+<h3><img src="./assets/algouniversity.jpg" width="40" height="40" align="left" />&nbsp;&nbsp;AlgoUniversity (Y Combinator S21) — SDE Intern</h3>
+
 **May 2026 – Jul 2026**
 > Building production-grade backend infrastructure for an ed-tech platform serving thousands of learners.
 - Engineered an **async HLS transcoding pipeline** using Celery distributed task queue and Redis message broker, cutting Django blocking time from O(minutes) to **< 190ms** by offloading FFmpeg encoding to background workers
@@ -62,7 +68,9 @@
 **Stack:** Python · Django · Celery · Redis · FFmpeg · AWS · Docker
 
 ---
-### <img src="./assets/gdg.png" width="20" height="20" /> Google Developer Groups — Tech Lead
+
+<h3><img src="./assets/gdg.webp" width="40" height="40" align="left" />&nbsp;&nbsp;Google Developer Groups — Tech Lead</h3>
+
 **Aug 2025 – Present**
 > Leading the developer community at IIIT Gwalior, organizing technical events, workshops, and hackathons.
 - Spearheaded **technical workshops and coding sessions** on DSA, System Design, and emerging technologies for 200+ student developers
@@ -73,7 +81,8 @@
 
 ---
 
-### <img src="./assets/coforge.png" width="20" height="20" /> Coforge — SDE Intern
+<h3><img src="./assets/coforge.webp" width="65" height="40" align="left" />&nbsp;&nbsp;Coforge — SDE Intern</h3>
+
 **Jun 2025 – Jul 2025**
 > Built a high-throughput ML data ingestion pipeline for enterprise document processing.
 - Devised a **high-throughput data ingestion pipeline**, reducing manual processing errors by ~18% and achieving over **92% accuracy** in entity recognition
@@ -84,7 +93,8 @@
 
 ---
 
-### <img src="./assets/sangillence.png" width="20" height="20" /> Sangillence (EdTech Startup) — Software Engineer Intern
+<h3><img src="./assets/sangillence.png" width="30" height="30" align="left" />&nbsp;&nbsp;Sangillence (EdTech Startup) — Software Engineer Intern</h3>
+
 **Oct 2025 – Jan 2026**
 > Improved backend reliability and API performance for a growing EdTech platform.
 - Reduced production errors by **~33%** through centralized exception handling, input sanitization, and backend debugging
@@ -92,6 +102,8 @@
 - Enhanced system scalability by modularizing backend services and enforcing clean architecture principles
 
 **Stack:** Python · SQL · REST APIs · Backend Optimization
+
+--- 
 
 # 📊 GitHub Stats:
 
