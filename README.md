@@ -62,6 +62,16 @@
 **Stack:** Python · Django · Celery · Redis · FFmpeg · AWS · Docker
 
 ---
+### <img src="./assets/gdg.png" width="20" height="20" /> Google Developer Groups — Tech Lead
+**Aug 2025 – Present**
+> Leading the developer community at IIIT Gwalior, organizing technical events, workshops, and hackathons.
+- Spearheaded **technical workshops and coding sessions** on DSA, System Design, and emerging technologies for 200+ student developers
+- Organized and mentored teams for **competitive programming contests and hackathons**, driving community engagement and skill development
+- Collaborated with Google's developer ecosystem to bring **industry-relevant resources and speaker sessions** to campus
+
+**Role:** Community Building · Technical Mentorship · Event Organization · Developer Advocacy
+
+---
 
 ### <img src="./assets/coforge.png" width="20" height="20" /> Coforge — SDE Intern
 **Jun 2025 – Jul 2025**
