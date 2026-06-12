@@ -50,9 +50,53 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 ---
-# 🚀 Projects
-> Explore my full project portfolio on **[GitHub Repositories](https://github.com/Aakarsh-Narang?tab=repositories)** — from distributed systems and AI pipelines to competitive programming solutions. Feel free to explore, star, or contribute!
-</br>
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakarsh-Narang&theme=github_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aakarsh-Narang&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakarsh-Narang&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aakarsh-Narang&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Aakarsh-Narang&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+# 📈 Contribution Activity:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakarsh-Narang&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+# 🐍 Contribution Snake:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakarsh-Narang/Aakarsh-Narang/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakarsh-Narang/Aakarsh-Narang/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aakarsh-Narang/Aakarsh-Narang/output/github-snake.svg" />
+  </picture>
+</p>
+
+# 🧩 LeetCode Stats:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Aakarsh_Narang?theme=dark&font=Nunito&ext=heatmap&width=495" alt="LeetCode Stats" style="width: 695px;" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Ranking%20&query=$.ranking&color=1F2937&style=for-the-badge&logo=codeforces&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Reputation%20&query=$.reputation&color=1F2937&style=for-the-badge&logo=circuitverse&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Contribution%20Points%20&query=$.contributionPoint&color=1F2937&style=for-the-badge&logo=githubactions&logoColor=9FEF00" />
+</p>
+
+<p align="center">
+    <!-- Try replacing "github-dark" with any of these: -->
+    <!-- dark, light, forest, unicorn, radical, tokyonight, dracula, monokai, cobalt, nord -->
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aakarsh_Narang&animated=true&theme=tokyonight&border=no-border" />
+</p>
 
 ---
 # 💼 Work Experience
@@ -103,54 +147,7 @@
 
 **Stack:** Python · SQL · REST APIs · Backend Optimization
 
---- 
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakarsh-Narang&theme=github_dark" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aakarsh-Narang&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakarsh-Narang&theme=github_dark" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aakarsh-Narang&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Aakarsh-Narang&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-# 📈 Contribution Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakarsh-Narang&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-# 🐍 Contribution Snake:
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakarsh-Narang/Aakarsh-Narang/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakarsh-Narang/Aakarsh-Narang/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Aakarsh-Narang/Aakarsh-Narang/output/github-snake.svg" />
-  </picture>
-</p>
-
-# 🧩 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aakarsh_Narang?theme=dark&font=Nunito&ext=heatmap&width=495" alt="LeetCode Stats" style="width: 695px;" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Ranking%20&query=$.ranking&color=1F2937&style=for-the-badge&logo=codeforces&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Reputation%20&query=$.reputation&color=1F2937&style=for-the-badge&logo=circuitverse&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/Aakarsh_Narang&label=%20Contribution%20Points%20&query=$.contributionPoint&color=1F2937&style=for-the-badge&logo=githubactions&logoColor=9FEF00" />
-</p>
-
-<p align="center">
-    <!-- Try replacing "github-dark" with any of these: -->
-    <!-- dark, light, forest, unicorn, radical, tokyonight, dracula, monokai, cobalt, nord -->
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aakarsh_Narang&animated=true&theme=tokyonight&border=no-border" />
-</p>
+---
 
 # 💬 Dev Quote of the Day:
 <p align="center">
