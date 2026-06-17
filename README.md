@@ -95,7 +95,7 @@
 <p align="center">
     <!-- Try replacing "github-dark" with any of these: -->
     <!-- dark, light, forest, unicorn, radical, tokyonight, dracula, monokai, cobalt, nord -->
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aakarsh_Narang&animated=true&theme=tokyonight&border=no-border" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aakarsh_Narang&animated=true&theme=tokyonight&border=no-border&v=2" />
 </p>
 
 ---
