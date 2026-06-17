@@ -15,7 +15,7 @@
 
   <li>🏗️ Built fault-tolerant systems featuring <strong>background job orchestration, RBAC, idempotent workflows, adaptive media delivery, and horizontally scalable services</strong> for production workloads.</li>
 
-  <li>☁️ Experienced across <strong>AWS, GCP, Docker, Kubernetes, modern backend stacks, Python, C++, Go, and Java</strong>, building systems that are fast, reliable, and built to last.</li>
+  <li>☁️ Experienced across <strong>AWS, GCP, Docker, Kubernetes, Redis, Message Queues, modern backend stacks, Python, C++, Go, and Java</strong>, building systems that are fast, reliable, and built to last.</li>
 
   <li>🏆 <strong>Meta Hacker Cup | Global Rank 168</strong> · Google Big Code & Flipkart Grid Semi-Finalist · ATF National Winner '26 · 4X Gold Medalist (NSO & IMO)</li>
 
