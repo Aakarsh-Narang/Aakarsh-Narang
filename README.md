@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<ul style="list-style:none; padding:0;">
+<ul style="list-style:none; padding:0;"> 
   <li>🎓 CS undergrad @ IIIT Gwalior '2027 · AI/ML Builder · Backend Engineer</li>
 
   <li>🚀 <strong>Coforge SDE Intern '25</strong> · <strong>AlgoUniversity (YC S21) SDE Intern '26</strong> · Google Developer Groups Tech Lead · McKinsey Forward Learner</li>
