@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=900&lines=Hi+there%2C+I'm+Aakarsh+Narang+%F0%9F%91%8B%F0%9F%8F%BB;CS+Undergrad+%40+IIIT+Gwalior+%7C+Class+of+2027;Coforge+SDE+Intern+%2725+%7C+AlgoUniversity+%28YC+S21%29+SDE+Intern+%2726;Google+Developer+Groups+Tech+Lead;Meta+Hacker+Cup+%7C+Global+Rank+168;Google+Big+Code+%26+Flipkart+Grid+Semi+Finalist;ATF+National+Winner+%2726+%7C+McKinsey+Forward+Learner;4X+Gold+Medalist+%7C+NSO+%26+IMO;Algorithmic+Thinker+%7C+Competitive+Programmer;AI%2FML+Builder+%7C+Backend+Engineer;Always+learning.+Always+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=900&lines=Hi+there%2C+I'm+Aakarsh+Narang+%F0%9F%91%8B%F0%9F%8F%BB;CS+Undergrad+%40+IIIT+Gwalior+%7C+Class+of+2027;Coforge+SDE+Intern+%2725+%7C+AlgoUniversity+%28YC+S21%29+SDE+Intern+%2726;Google+Developer+Groups+Tech+Lead;Meta+Hacker+Cup+%7C+Global+Rank+168;Amazon+ML+Summer+School+2026+%7C+Top+2.3%25+of+131K%2B;Google+Big+Code+%26+Flipkart+Grid+Semi+Finalist;ATF+National+Winner+%2726+%7C+McKinsey+Forward+Learner;4X+Gold+Medalist+%7C+NSO+%26+IMO;Algorithmic+Thinker+%7C+Competitive+Programmer;AI%2FML+Builder+%7C+Backend+Engineer;Always+learning.+Always+building." alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
   <li>☁️ Experienced across <strong>AWS, GCP, Docker, Kubernetes, Redis, Message Queues, modern backend stacks, Python, C++, Go, and Java</strong>, building systems that are fast, reliable, and built to last.</li>
 
-  <li>🏆 <strong>Meta Hacker Cup | Global Rank 168</strong> · Google Big Code & Flipkart Grid Semi-Finalist · ATF National Winner '26 · 4X Gold Medalist (NSO & IMO)</li>
+  <li>🏆 <strong>Meta Hacker Cup | Global Rank 168</strong> · <strong>Google</strong> Big Code & <strong>Flipkart</strong> Grid Semi-Finalist · <strong>Amazon</strong> ML Summer School '26 · ATF National Winner '26 · 4X Gold Medalist (NSO & IMO)</li>
 
   <li>📌 Currently sharpening my <strong>algorithmic thinking, system design, and problem-solving</strong> through competitive programming while building towards <strong>Large-Scale ML Systems & AI-powered applications.</strong></li>
 
