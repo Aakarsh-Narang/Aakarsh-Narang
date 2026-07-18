@@ -9,6 +9,8 @@
 
   <li>🚀 <strong>Coforge SDE Intern '25</strong> · <strong>AlgoUniversity (YC S21) SDE Intern '26</strong> · Google Developer Groups Tech Lead · McKinsey Forward Learner</li>
 
+  <li>🏆 <strong>Meta Hacker Cup | Global Rank 168</strong> · <strong>Google</strong> Big Code & <strong>Flipkart</strong> Grid Semi-Finalist · <strong>Amazon</strong> ML Summer School '26 · ATF National Winner '26 · 4X Gold Medalist (NSO & IMO)</li>
+  
   <li>💻 I approach every engineering problem from first principles, with a strong foundation in DSA & algorithms that shapes how I design, optimize, and build software.</li>
 
   <li>⚡ Experienced in designing <strong>distributed systems, asynchronous processing pipelines, caching layers, and scalable backend architectures</strong>, with hands-on work across Celery, Redis, Kafka, Docker, Kubernetes, AWS, and GCP.</li>
@@ -16,8 +18,6 @@
   <li>🏗️ Built fault-tolerant systems featuring <strong>background job orchestration, RBAC, idempotent workflows, adaptive media delivery, and horizontally scalable services</strong> for production workloads.</li>
 
   <li>☁️ Experienced across <strong>AWS, GCP, Docker, Kubernetes, Redis, Message Queues, modern backend stacks, Python, C++, Go, and Java</strong>, building systems that are fast, reliable, and built to last.</li>
-
-  <li>🏆 <strong>Meta Hacker Cup | Global Rank 168</strong> · <strong>Google</strong> Big Code & <strong>Flipkart</strong> Grid Semi-Finalist · <strong>Amazon</strong> ML Summer School '26 · ATF National Winner '26 · 4X Gold Medalist (NSO & IMO)</li>
 
   <li>📌 Currently sharpening my <strong>algorithmic thinking, system design, and problem-solving</strong> through competitive programming while building towards <strong>Large-Scale ML Systems & AI-powered applications.</strong></li>
 
